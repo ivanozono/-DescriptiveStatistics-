@@ -27,7 +27,7 @@ Delve into the core of descriptive statistics and understand the techniques that
 
 📜 **Lessons Index** 📜
 
-1. [Data Types in Descriptive Statistics](https://github.com/ivanozono/-DescriptiveStatistics-/blob/main/(1)Tipos_de_datos_en_estadistica_descriptiva.ipynb)
+1. [Data Types in Descriptive Statistics](https://github.com/ivanozono/-DescriptiveStatistics-/blob/main/(1)Types_of_data_in_descriptive_statistics.ipynb)
 2. [Bill Gates Effect in a Bar](https://github.com/ivanozono/-DescriptiveStatistics-/blob/main/(2)Efecto_de_Bill_Gates_en_un_bar.ipynb)
 3. [Central Tendency and Distributions](https://github.com/ivanozono/-DescriptiveStatistics-/blob/main/(3)Central_Tendency_and_Distributions.ipynb)
 4. [Central Tendency Measures](https://github.com/ivanozono/-DescriptiveStatistics-/blob/main/(3.1)Medidas_de_Tendencia_Central.ipynb)
